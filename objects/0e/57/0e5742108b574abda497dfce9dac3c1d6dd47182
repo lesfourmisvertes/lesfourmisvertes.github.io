@@ -1,0 +1,8 @@
+#Made BY Sir_titi 	This is a config file for the radio (dataStorage).
+#You can alter these at your liking Butt at your own risk doing So!
+#Fri Jul 20 13:56:15 CEST 2018
+NRJ=http\://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine\=fluxradios
+NRJ\ Club\ Hits=http\://185.52.127.162/fr/31073/mp3_128.mp3?origine\=fluxradios
+NRJ\ Fiesta=http\://185.52.127.162/fr/31247/mp3_128.mp3?origine\=fluxradios
+Radio\ Flaixbac=http\://radiostream.radioflaixbac.cat\:8004/
+TOP\ 20\ Radio=http\://streaming.radionomy.com/-TOP20-Radio?lang\=fr-FR%2cfr%3bq%3d0.9%

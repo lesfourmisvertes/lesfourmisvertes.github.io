@@ -1,0 +1,10 @@
+#Made BY Sir_titi 	This is a config file for the radio (dataStorage).
+#You can alter these at your liking Butt at your own risk doing So!
+#Mon May 04 18:16:58 CEST 2020
+AllowAutoUpdate=true
+IsRepeat=false
+Shuffle=false
+WasPlaying=false
+config_version=1.2
+isMouseOverhelp=true
+userFolderLink=C\:\\Users\\Hugo\\elevatormusic.mp3

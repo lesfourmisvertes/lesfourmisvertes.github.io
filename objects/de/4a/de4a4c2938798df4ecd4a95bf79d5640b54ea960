@@ -1,0 +1,34 @@
+# Configuration file
+
+debug {
+    B:checkForVRAMLeak=false
+}
+
+
+examplebrowser {
+    B:enable=true
+    S:home=mod://mcef/home.html
+}
+
+
+main {
+    S:cefArgs=--disable-gpu
+    B:disableGPURendering=true
+
+    # Set this to false if you don't want to enable the F10 browser. [default: true]
+    B:exampleBrowser=true
+
+    # A URL that contains every MCEF resources; for instance http://montoyo.net/jcef. [default: ]
+    S:forcedMirror=
+    B:secureMirrorsOnly=true
+    B:shutdownJcef=false
+
+    # Do not update binaries. [default: false]
+    B:skipUpdates=false
+    B:useForgeSplash=true
+
+    # Tells in the chat if a new version of MCEF is available. [default: true]
+    B:warnUpdates=true
+}
+
+

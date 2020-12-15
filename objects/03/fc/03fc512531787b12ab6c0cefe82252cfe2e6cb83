@@ -1,0 +1,14 @@
+# Configuration file
+
+general {
+    # Your ingame Name [default: Max]
+    S:Name=Max
+
+    # Switch this onj if you whant to have growing hair, have to brush your teeth etc(this is effectife in Survivalmode!!!!! [default: false]
+    B:RealityMode=false
+
+    # The value the default time is multiplied ingame [range: 0 ~ 2147483647, default: 400]
+    I:timeMultiplier=400
+}
+
+

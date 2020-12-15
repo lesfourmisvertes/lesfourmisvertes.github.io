@@ -1,0 +1,347 @@
+# Configuration file
+
+##########################################################################################################
+# afkhandler
+#--------------------------------------------------------------------------------------------------------#
+# Settings for controlling the auto-battler for AFK players.
+##########################################################################################################
+
+afkhandler {
+    # Sets the time (in seconds) before a player in battle is declared to be AFK and the auto-battle code takes over for them.
+    I:"AFK Activation Time Length"=90
+
+    # Sets the time (in seconds) that the auto-battle code allows for an AFK player to move once auto-battle is active, before selecting a move itself.
+    I:"AFK Activation Turn Time"=15
+
+    # Have auto-battle take over if a player is AFK during a battle. Activates after the specified time period and gives thespecified time for each turn after that.
+    B:"AFK Handler Active"=false
+}
+
+
+##########################################################################################################
+# breeding
+#--------------------------------------------------------------------------------------------------------#
+# Settings for breeding behavior.
+##########################################################################################################
+
+breeding {
+    # If disabled, prevents crafting of ranch blocks.
+    B:"Allow crafting of Ranch Blocks"=true
+
+    # If disabled, prevents placing of ranch blocks, preventing breeding from occuring.
+    B:"Allow placing of ranch blocks"=true
+
+    # Disabling this will remove the ranch expansion item from the game.
+    B:"Allow ranch expansion"=true
+
+    # If enabled, random Eggs from Ditto-Ditto breeding might contain Legendaries.
+    B:"Allow random BREEDING eggs to have a chance to be a legendary"=false
+
+    # If enabled, random Eggs from /pokegiveEgg might contain legendaries.
+    B:"Allow random SPAWNED eggs to have a chance to be a legendary"=false
+
+    # Number of stages to go through before breeding occurs (1-5).
+    I:"Number of breeding levels"=5
+
+    # Sets the number of steps per Egg cycle. Lower numbers hatch eggs faster.
+    I:"Steps per egg cycle"=255
+
+    # Control speed of breeding based on the blocks set in the area. If false, will set breeding speed to 1.0x.
+    B:"Use breeding environments"=true
+
+    # Number of ticks till the breeding level goes up by 1.
+    I:"World ticks till breeding level increased"=18000
+}
+
+
+##########################################################################################################
+# database
+#--------------------------------------------------------------------------------------------------------#
+# Settings for re-routing the Pixelmon saving system into an external database.
+##########################################################################################################
+
+database {
+    # Put the connection string for the external database in the form jdbc:dbtype://...
+    S:"Connection string"=jdbc:h2://
+
+    # Enable this to change the save system over to a database specified in the connection string property. Only H2 and MySQL currently supported.
+    B:"Save to external database"=false
+}
+
+
+##########################################################################################################
+# general
+#--------------------------------------------------------------------------------------------------------#
+# General settings for the world.
+##########################################################################################################
+
+general {
+    # Allow player to throw Poke Balls from hotbar. If false, Poke Balls can only be thrown in battles.
+    B:"Allow Capturing Outside of Battle"=true
+
+    # Allows players to make rare candies by crafting (server-side option).
+    B:"Allow Crafting of Rare Candy"=true
+
+    # Allows the 17 types of Gems to be dropped by bosses.
+    B:"Allow Gem Boss Drop"=false
+
+    # Allows the 17 types of Gems to be crafted by players.
+    B:"Allow Gems to be crafted"=true
+
+    # Determines if player vs. player battles give Pokemon experience. No EXP gain in PvP when false.
+    B:"Allow PVP Experience"=true
+
+    # Allow players to plant Apricorns in the ground.
+    B:"Allow Planting"=true
+
+    # Permits bosses to drop ranch area upgrades.
+    B:"Allow Ranch Upgrade Boss Drop"=true
+
+    # Allow players to ride Pokemon. If false, no Pokemon can be ridden (server-side option).
+    B:"Allow Riding"=true
+
+    # Allow random generation of structures such as Pokemon Centers, shrines, and other buildings if true.
+    B:"Allow Structures to Spawn"=true
+
+    # Determines if player vs. Trainer battles give Pokemon experience. No EXP gain in Trainer battles when false.
+    B:"Allow Trainer Experience"=true
+
+    # Allow the anvil to replace finished items with starting item from player's inventory without manual placing.
+    B:"Allow anvil autoreloading"=false
+
+    # Allow the player to nickname Pokemon (not a server-wide setting, just a client setting).
+    B:"Allow pokemon nicknames"=true
+
+    # Allow creepers, skeletons, etc. to spawn in the world. DANGER: can kill you while battling.
+    B:"Allow vanilla mobs"=false
+
+    # Set Legendary shrines to one-use (false) or multiple-use (true).
+    B:"Bird Shrines are reusable"=false
+
+    # Allow players to use cloning machines to clone Mew into Mewtwo.
+    B:"Cloning Machines Enabled"=true
+
+    # When mounted, enables steering the Pokemon by looking.
+    B:"Enable point to steer"=true
+
+    # Lets you choose to give/not give a starter to a player on join (via the Pixelmon starter screen).
+    B:"Give a starter on join"=true
+
+    # Requires HM move Fly or HM move Surf on a Pokemon to be able to ride it.
+    B:"Have HM To Ride"=false
+
+    # Isi's hourglass is an item that lets you skip stages of breeding.
+    B:"Let bosses drop Isi's hourglass"=true
+
+    # If true, must be opped. If false, must be in Creative mode.
+    B:"Must be opped to use spawners"=true
+
+    # Sets how far Pokemon names and levels can be seen from (client setting only).
+    I:"Nameplate Visible Range Modifier (1=default, 2=farther, 3=far)"=1
+
+    # Allows wild Pokemon to drop items like feathers, etc. on death.
+    B:"Pokemon Drops Enabled"=true
+
+    # Prints more detailed error messages to the server.log file if enabled.
+    B:"Print Errors"=false
+
+    # Removes regular Minecraft music so only Pixelmon music plays. (Currently locked to true in code.)
+    B:"Remove Minecraft Music"=true
+
+    # Increases size of Pokemon models in-game by 30%.
+    B:"Scale Models Up"=true
+
+    # Allow Legendary bird shrines to spawn randomly in the world.
+    B:"Spawn Bird Shrines"=true
+
+    # Allow Spectral Jeweller Gem shrines to spawn randomly in the world.
+    B:"Spawn Gem Shrines"=false
+
+    # Battle camera rotates around player if true, and is stationary if false.
+    B:"Spin Battle Camera"=true
+
+    # The time taken before syncing to the system clock (in seconds).
+    I:"System time sync interval"=30
+
+    # Set traders to one-use (false) or multiple-use (true).
+    B:"Traders are reusable"=false
+
+    # Sets Trainer rarity. Higher values spawn Trainers more often. 0 spawns no Trainers.
+    I:"Trainer Rarity (percentage 0-200)"=50
+
+    # Lets your world follow real world time or not (server's system time).
+    B:"Use system time for world time"=false
+
+    # Allows you to toggle which tab list you would like to use.
+    B:"Use the Custom Tab List"=true
+
+    # Wild Pokemon will have a chance based on unfavourable battle conditions to try and flee from battle.
+    B:"Wild Pokemon can try and flee from battles."=false
+
+    # Allows some wild pokemon to aggro on player and force battles. No forced battles when false.
+    B:"Wild Pokemon initiate battles"=true
+
+    # Saves Pixelmon entities to file when the world saves (greatly increases save file size and save time if true).
+    B:"Write Entities To World Save"=false
+}
+
+
+##########################################################################################################
+# graphics
+#--------------------------------------------------------------------------------------------------------#
+# Graphics Settings
+##########################################################################################################
+
+graphics {
+    # Use the SMD normal maps for shading Poke Balls.
+    B:"Enable smooth shading for pokeballs"=true
+
+    # Use the SMD normal maps for shading Pokemon.
+    B:"Enable smooth shading for pokemon"=true
+
+    # Multiplier of the 64 distance usually used for rendering.
+    D:"Render Distance Weight"=2.0
+
+    # Display the currently selected Pokemon's attack target on the screen.
+    B:"Show current attack target"=true
+
+    # Use the low-res (256x256) Pokemon and Poke Ball textures.
+    B:"Use low-res Textures"=false
+
+    # Use original Pokemon textures for statues.
+    B:"Use original pokemon textures for statues"=false
+}
+
+
+##########################################################################################################
+# ids
+#--------------------------------------------------------------------------------------------------------#
+# Entity IDs for Pixelmon entities. (DO NOT CHANGE, unless you know what you are doing.)
+##########################################################################################################
+
+ids {
+    I:"Camera ID"=202
+    I:"Pixelmon ID"=200
+    I:"Pokeball ID"=201
+    I:"Trainer ID"=199
+}
+
+
+##########################################################################################################
+# pokeloot
+#--------------------------------------------------------------------------------------------------------#
+# Settings for controlling PokeLoot chest spawns and behavior.
+##########################################################################################################
+
+pokeloot {
+    # Sets the frequency of chests spawning in the world. (To disable completely, use the '- Enabled' config settings..)
+    # Minimal ~ 1 per 64 chunks, Normal ~ 1 per 32 chunks, More ~ 1 per 18 chunks, Extreme ~ 1 per 10 chunks
+    I:"Chest Spawn Rate (Minimal=0,Normal=1,More=2,Extreme=3)"=1
+
+    # Sets the mode of all randomly spawned PokeLoot chests
+    # FCFS = First Come First Serve. Only one player can loot the chest, then the chest vanishes.
+    # PL1D = Player 1 Drop. The chest gives one drop per person. The chest remains for others to use once each.
+    # PUD = Player Unlimited Drops. Chests can be used infinitely by all players.
+    # TIMED = Each player is allowed to loot again after a specified time interval (individual timers). The chest remains after looting.
+    I:"Default Spawn Mode (FCFS=0, PL1D=1, PUD=2, TIMED=3)"=0
+
+    # Allow Hidden Grottos to spawn in the world.
+    B:"Hidden Grotto -  Enabled"=true
+
+    # Allows invisible Poke Chests to spawn around the world randomly.
+    B:"Hidden PokeChest - Enabled"=true
+
+    # Allows normal visible Poke Chests to spawn around the world randomly.
+    B:"Normal PokeChest - Enabled"=true
+
+    # Sets the frequency that a player can reuse a timed loot chest (both placed in Creative and naturally spawned, if set to TIMED).
+    # Time conversions: one hour = 3600 seconds, one day = 86400 seconds, one week = 604800 seconds
+    I:"Timed Loot (seconds)"=86400
+}
+
+
+##########################################################################################################
+# spawning
+#--------------------------------------------------------------------------------------------------------#
+# Settings that control what Pokemon spawn and how many spawn.
+##########################################################################################################
+
+spawning {
+    # Allow wild Legendaries to spawn (besides specific event spawns).
+    B:"Allow Legendaries to spawn"=true
+
+    # Forces wild Pokemon to despawn after a battle.
+    B:"Despawn on Flee or Loss"=false
+
+    # This lets you choose which dimensions the Pixelmon spawner will operate in.
+    I:"Dimensions Pokemon will spawn in" <
+        0
+        2
+     >
+
+    # Displays a server-wide announcement 'A Legendary has spawned in <name> biome' when a Legendary spawns.
+    B:"Display global message on legendary spawn"=true
+
+    # Sets whether Generation 1 Pokemon will be spawned or not (Pokedex 1-151).
+    B:Gen1=true
+
+    # Sets whether Generation 2 Pokemon will be spawned or not (Pokedex 152-251).
+    B:Gen2=true
+
+    # Sets whether Generation 3 Pokemon will be spawned or not (Pokedex 252-386).
+    B:Gen3=true
+
+    # Sets whether Generation 4 Pokemon will be spawned or not (Pokedex 387-493).
+    B:Gen4=true
+
+    # Sets whether Generation 5 Pokemon will be spawned or not (Pokedex 494-649).
+    B:Gen5=true
+
+    # Sets whether Generation 6 Pokemon will be spawned or not (Pokedex 650-721).
+    B:Gen6=true
+
+    # Sets odds of Legendary Spawning (1 in X spawns). Higher values spawn wild Legendaries less often.
+    I:"Legendary Spawn Rate"=22000
+
+    # Sets the max number of flying Pokemon in the world at a time (higher numbers = more spawns). (KEEP THIS LOW.)
+    I:"Max number of Air Pokemon (at one time)"=2
+
+    # Sets the max number of land Pokemon in the world at a time (higher numbers = more spawns).
+    I:"Max number of Land Pokemon (at one time)"=40
+
+    # Sets the max number of underground Pokemon in the world at a time (higher numbers = more spawns).
+    I:"Max number of Underground Pokemon (at one time)"=20
+
+    # Sets the max number of water Pokemon in the world at a time (higher numbers = more spawns).
+    I:"Max number of Water Pokemon (at one time)"=20
+
+    # Shiny calculation uses 1/(shiny rate) to get odds of becoming Shiny.
+    I:"Shiny spawn rate"=8192
+}
+
+
+starter_settings {
+    I:"Level (min=5, max=100"=5
+    B:Shiny=false
+}
+
+
+starters {
+    S:"1 - First Choice"=Bulbasaur
+    S:"2 - Second Choice"=Squirtle
+    S:"3 - Third Choice"=Charmander
+    S:"4 - Fourth Choice"=Chikorita
+    S:"5 - Fifth Choice"=Totodile
+    S:"6 - Sixth Choice"=Cyndaquil
+    S:"7 - Seventh Choice"=Treecko
+    S:"8 - Eighth Choice"=Mudkip
+    S:"9 - Ninth Choice"=Torchic
+    S:"_10 - Tenth Choice"=Turtwig
+    S:"_11 - Eleventh Choice"=Piplup
+    S:"_12 - Twelfth Choice"=Chimchar
+    S:"_13 - Thirteenth Choice"=Snivy
+    S:"_14 - Fourteenth Choice"=Oshawott
+    S:"_15 - Fifteenth Choice"=Tepig
+}
+
+

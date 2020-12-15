@@ -1,0 +1,1220 @@
+# Configuration file
+
+####################
+# blackcar
+####################
+
+blackcar {
+    S:biomegroups <BLACKCAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# blackpolicecar
+####################
+
+blackpolicecar {
+    S:biomegroups <BLACKPOLICECAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# blacktruck
+####################
+
+blacktruck {
+    S:biomegroups <BLACKTRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# blackvan
+####################
+
+blackvan {
+    S:biomegroups <BLACKVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# bluecar
+####################
+
+bluecar {
+    S:biomegroups <BLUECAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# bluekart
+####################
+
+bluekart {
+    S:biomegroups <BLUEKART_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# bluetruck
+####################
+
+bluetruck {
+    S:biomegroups <BLUETRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# bluevan
+####################
+
+bluevan {
+    S:biomegroups <BLUEVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# browncar
+####################
+
+browncar {
+    S:biomegroups <BROWNCAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# browntruck
+####################
+
+browntruck {
+    S:biomegroups <BROWNTRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# brownvan
+####################
+
+brownvan {
+    S:biomegroups <BROWNVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# car
+####################
+
+car {
+    S:biomegroups <CAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# cart
+####################
+
+cart {
+    S:biomegroups <CART_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# cyancar
+####################
+
+cyancar {
+    S:biomegroups <CYANCAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# cyantruck
+####################
+
+cyantruck {
+    S:biomegroups <CYANTRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# cyanvan
+####################
+
+cyanvan {
+    S:biomegroups <CYANVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# flatbed
+####################
+
+flatbed {
+    S:biomegroups <FLATBED_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# graycar
+####################
+
+graycar {
+    S:biomegroups <GRAYCAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# grayvan
+####################
+
+grayvan {
+    S:biomegroups <GRAYVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# greencar
+####################
+
+greencar {
+    S:biomegroups <GREENCAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# greenkart
+####################
+
+greenkart {
+    S:biomegroups <GREENKART_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# greentruck
+####################
+
+greentruck {
+    S:biomegroups <GREENTRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# greenvan
+####################
+
+greenvan {
+    S:biomegroups <GREENVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# jeep
+####################
+
+jeep {
+    S:biomegroups <JEEP_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# kart
+####################
+
+kart {
+    S:biomegroups <KART_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# lbluecar
+####################
+
+lbluecar {
+    S:biomegroups <LBLUECAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# lbluetruck
+####################
+
+lbluetruck {
+    S:biomegroups <LBLUETRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# lbluevan
+####################
+
+lbluevan {
+    S:biomegroups <LBLUEVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# lgraycar
+####################
+
+lgraycar {
+    S:biomegroups <LGRAYCAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# lgraytruck
+####################
+
+lgraytruck {
+    S:biomegroups <LGRAYTRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# lgrayvan
+####################
+
+lgrayvan {
+    S:biomegroups <LGRAYVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# limecar
+####################
+
+limecar {
+    S:biomegroups <LIMECAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# limetruck
+####################
+
+limetruck {
+    S:biomegroups <LIMETRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# limevan
+####################
+
+limevan {
+    S:biomegroups <LIMEVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# magentacar
+####################
+
+magentacar {
+    S:biomegroups <MAGENTACAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# magentatruck
+####################
+
+magentatruck {
+    S:biomegroups <MAGENTATRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# magentavan
+####################
+
+magentavan {
+    S:biomegroups <MAGENTAVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# orangecar
+####################
+
+orangecar {
+    S:biomegroups <ORANGECAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# orangetruck
+####################
+
+orangetruck {
+    S:biomegroups <ORANGETRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# orangevan
+####################
+
+orangevan {
+    S:biomegroups <ORANGEVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# pinkcar
+####################
+
+pinkcar {
+    S:biomegroups <PINKCAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# pinktruck
+####################
+
+pinktruck {
+    S:biomegroups <PINKTRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# pinkvan
+####################
+
+pinkvan {
+    S:biomegroups <PINKVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# policecar
+####################
+
+policecar {
+    S:biomegroups <POLICECAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# purplecar
+####################
+
+purplecar {
+    S:biomegroups <PURPLECAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# purpletruck
+####################
+
+purpletruck {
+    S:biomegroups <PURPLETRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# purplevan
+####################
+
+purplevan {
+    S:biomegroups <PURPLEVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# redtruck
+####################
+
+redtruck {
+    S:biomegroups <REDTRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# redvan
+####################
+
+redvan {
+    S:biomegroups <REDVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# smallvehicle
+####################
+
+smallvehicle {
+    S:biomegroups <SMALLVEHICLE_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# truck
+####################
+
+truck {
+    S:biomegroups <TRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# van
+####################
+
+van {
+    S:biomegroups <VAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# whitecar
+####################
+
+whitecar {
+    S:biomegroups <WHITECAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# whitetruck
+####################
+
+whitetruck {
+    S:biomegroups <WHITETRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# yellowcar
+####################
+
+yellowcar {
+    S:biomegroups <YELLOWCAR_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# yellowtruck
+####################
+
+yellowtruck {
+    S:biomegroups <YELLOWTRUCK_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# yellowvan
+####################
+
+yellowvan {
+    S:biomegroups <YELLOWVAN_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+
+####################
+# zamboni
+####################
+
+zamboni {
+    S:biomegroups <ZAMBONI_DEFAULT>
+    B:canSpawn=true
+    I:frequency=8
+    I:maxChunk=6
+    I:maxLightlevel=-1
+    I:maxSpawn=3
+    I:maxSpawnHeight=256
+    I:minLightlevel=-1
+    I:minSpawn=2
+    I:minSpawnHeight=0
+    S:opaqueBlock=all
+    S:spawnBlockBlacklist <>
+    S:type=CREATURE
+}
+
+

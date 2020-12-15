@@ -1,0 +1,309 @@
+# Configuration file
+
+####################
+# biomegroup-defaults
+####################
+
+biomegroup-defaults {
+    S:BEACH <MC|Beach:MC|Cold Beach:MC|MushroomIslandShore:MC|Stone Beach>
+    S:COLD <MC|Cold Beach:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Cold Taiga M:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Mountains:MC|Ice Plains:MC|Ice Plains Spikes:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Sky:MC|Taiga:MC|TaigaHills>
+    S:CONIFEROUS <MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Taiga:MC|TaigaHills>
+    S:DANGER_ALIEN_DEFAULT <>
+    S:DANGER_ALOSAURUS_DEFAULT <>
+    S:DANGER_ANT_DEFAULT <>
+    S:DANGER_APPLECOW_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|Mega Taiga:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_ATTACKSQUID_DEFAULT <MC|Ocean:MC|Swampland:MC|River>
+    S:DANGER_BABYDRAGON_DEFAULT <>
+    S:DANGER_BARYONYX_DEFAULT <>
+    S:DANGER_BASILISK_DEFAULT <MC|Jungle:MC|JungleHills:MC|Birch Forest Hills:MC|Roofed Forest>
+    S:DANGER_BEAVER_DEFAULT <MC|Forest:MC|Taiga:MC|River:MC|Birch Forest:MC|Birch Forest Hills:MC|Mega Taiga>
+    S:DANGER_BEE_DEFAULT <MC|Forest:MC|Taiga:MC|ForestHills:MC|Jungle:MC|JungleHills:MC|Birch Forest:MC|Birch Forest Hills:MC|Mega Taiga:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_BIRD_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|River:MC|Beach:MC|ForestHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|Stone Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Mega Taiga:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_BOMBOMB_DEFAULT <>
+    S:DANGER_BOYFRIEND_DEFAULT <>
+    S:DANGER_BRUTALFLY_DEFAULT <MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Mesa Plateau>
+    S:DANGER_BUTTERFLY_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|Beach:MC|ForestHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|Birch Forest:MC|Birch Forest Hills:MC|Mega Taiga:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_CAMARASAURUS_DEFAULT <>
+    S:DANGER_CASSOWARY_DEFAULT <MC|Extreme Hills:MC|Extreme Hills Edge:MC|Birch Forest:MC|Birch Forest Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_CATERKILLER_DEFAULT <MC|Forest:MC|Taiga:MC|ForestHills:MC|Jungle:MC|JungleHills:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Mega Taiga>
+    S:DANGER_CAVEFISHER_DEFAULT <>
+    S:DANGER_CEPHADROME_DEFAULT <MC|Ice Plains:MC|Cold Taiga>
+    S:DANGER_CHIPMUNK_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|Jungle:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Mega Taiga>
+    S:DANGER_CLIFFRACER_DEFAULT <>
+    S:DANGER_CLOUDSHARK_DEFAULT <>
+    S:DANGER_COIN_DEFAULT <MC|Forest:MC|Taiga:MC|Jungle:MC|Birch Forest:MC|Cold Taiga:MC|Mega Taiga>
+    S:DANGER_CRAB_DEFAULT <MC|Ocean:MC|Swampland:MC|Stone Beach>
+    S:DANGER_CREEPINGHORROR_DEFAULT <>
+    S:DANGER_CRICKET_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|Jungle:MC|JungleHills:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Mega Taiga:MC|Savanna Plateau>
+    S:DANGER_CRIMINAL_DEFAULT <MC|Plains:MC|Desert:MC|Savanna>
+    S:DANGER_CRYOLOPHOSAURUS_DEFAULT <>
+    S:DANGER_CRYSTALAPPLECOW_DEFAULT <>
+    S:DANGER_CRYSTALURCHIN_DEFAULT <>
+    S:DANGER_DRAGONFLY_DEFAULT <MC|Swampland:MC|River>
+    S:DANGER_DRAGON_DEFAULT <>
+    S:DANGER_DUNGEONBEAST_DEFAULT <MC|Roofed Forest>
+    S:DANGER_EASTERBUNNY_DEFAULT <>
+    S:DANGER_EMPERORSCORPION_DEFAULT <MC|Desert:MC|Savanna>
+    S:DANGER_ENCHANTEDGOLDENAPPLECOW_DEFAULT <MC|Plains:MC|Forest:MC|MushroomIsland:MC|Mega Taiga>
+    S:DANGER_ENDERKNIGHT_DEFAULT <MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|River:MC|ForestHills:MC|Extreme Hills Edge:MC|JungleHills:MC|Roofed Forest>
+    S:DANGER_ENDERREAPER_DEFAULT <MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|River:MC|ForestHills:MC|Extreme Hills Edge:MC|JungleHills:MC|Roofed Forest>
+    S:DANGER_FAIRY_DEFAULT <MC|Roofed Forest>
+    S:DANGER_FIREFLY_DEFAULT <MC|Forest:MC|Taiga:MC|Swampland:MC|ForestHills:MC|Jungle:MC|JungleHills:MC|Stone Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_FLOUNDER_DEFAULT <>
+    S:DANGER_FROG_DEFAULT <MC|Swampland:MC|River:MC|Jungle>
+    S:DANGER_GAZELLE_DEFAULT <>
+    S:DANGER_GHOSTPUMPKINSKELLY_DEFAULT <MC|FrozenRiver:MC|TaigaHills:MC|Jungle:MC|Roofed Forest:MC|Cold Taiga>
+    S:DANGER_GHOST_DEFAULT <MC|FrozenRiver:MC|TaigaHills:MC|Jungle:MC|Roofed Forest:MC|Cold Taiga>
+    S:DANGER_GIRLFRIEND_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|River:MC|Beach:MC|ForestHills:MC|Stone Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Mega Taiga:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_GOLDENAPPLECOW_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|Mega Taiga>
+    S:DANGER_GOLDFISH_DEFAULT <>
+    S:DANGER_HAMMERHEAD_DEFAULT <>
+    S:DANGER_HERCULESBEETLE_DEFAULT <MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|JungleHills:MC|Birch Forest Hills:MC|Cold Taiga Hills:MC|Mega Taiga Hills>
+    S:DANGER_HOVERBOARD_DEFAULT <>
+    S:DANGER_HYDROLISC_DEFAULT <MC|Swampland:MC|Jungle:MC|JungleHills:MC|Stone Beach>
+    S:DANGER_IRUKANDJI_DEFAULT <>
+    S:DANGER_JEFFERY_DEFAULT <>
+    S:DANGER_JUMPYBUG_DEFAULT <MC|Swampland:MC|Mesa>
+    S:DANGER_KINGHEAD_DEFAULT <>
+    S:DANGER_KYUUBI_DEFAULT <MC|Hell>
+    S:DANGER_LARGEWORM_DEFAULT <MC|Plains:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_LEAFMONSTER_DEFAULT <MC|Forest:MC|Taiga:MC|ForestHills:MC|Jungle:MC|JungleHills:MC|Birch Forest:MC|Birch Forest Hills:MC|Mega Taiga>
+    S:DANGER_LEONOPTERYX_DEFAULT <>
+    S:DANGER_LIZARD_DEFAULT <MC|Ocean:MC|Swampland:MC|River>
+    S:DANGER_LURKINGTERROR_DEFAULT <>
+    S:DANGER_MANTIS_DEFAULT <MC|Plains:MC|Forest:MC|Swampland:MC|ForestHills:MC|Jungle:MC|Birch Forest:MC|Mega Taiga:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_MEDIUMWORM_DEFAULT <>
+    S:DANGER_MOBZILLAHEAD_DEFAULT <>
+    S:DANGER_MOBZILLA_DEFAULT <>
+    S:DANGER_MOLENOID_DEFAULT <MC|Plains:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_MOSQUITO_DEFAULT <MC|Swampland:MC|Jungle:MC|JungleHills:MC|Roofed Forest>
+    S:DANGER_MOTHRA_DEFAULT <MC|Extreme Hills:MC|Extreme Hills+>
+    S:DANGER_MOTH_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|ForestHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Mega Taiga:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_NASTYSAURUS_DEFAULT <>
+    S:DANGER_NIGHTMARE_DEFAULT <>
+    S:DANGER_OSTRICH_DEFAULT <MC|Desert:MC|Stone Beach:MC|Savanna:MC|Savanna Plateau>
+    S:DANGER_PEACOCK_DEFAULT <MC|Mesa:MC|Mesa Plateau>
+    S:DANGER_POINTYSAURUS_DEFAULT <>
+    S:DANGER_PURPLEPOWER_DEFAULT <>
+    S:DANGER_QUEENHEAD_DEFAULT <>
+    S:DANGER_RAINBOWANT_DEFAULT <>
+    S:DANGER_RAT_DEFAULT <MC|Taiga:MC|Roofed Forest>
+    S:DANGER_REDANT_DEFAULT <>
+    S:DANGER_REX_DEFAULT <>
+    S:DANGER_ROBOGUNNER_DEFAULT <>
+    S:DANGER_ROBOPOUNDER_DEFAULT <>
+    S:DANGER_ROBOSNIPER_DEFAULT <>
+    S:DANGER_ROBOTREDANT_DEFAULT <>
+    S:DANGER_ROBOTSPIDER_DEFAULT <>
+    S:DANGER_ROBOWARRIOR_DEFAULT <>
+    S:DANGER_ROCK_DEFAULT <>
+    S:DANGER_ROTATOR_DEFAULT <>
+    S:DANGER_RUBBERDUCKY_DEFAULT <MC|River:MC|Stone Beach>
+    S:DANGER_RUBYBIRD_DEFAULT <>
+    S:DANGER_SCORPION_DEFAULT <MC|Desert:MC|Roofed Forest:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau>
+    S:DANGER_SEAMONSTER_DEFAULT <MC|Ocean:MC|Swampland>
+    S:DANGER_SEAVIPER_DEFAULT <MC|Ocean:MC|Stone Beach>
+    S:DANGER_SKATE_DEFAULT <>
+    S:DANGER_SMALLWORM_DEFAULT <>
+    S:DANGER_SPIDERDRIVER_DEFAULT <>
+    S:DANGER_SPITBUG_DEFAULT <MC|Swampland>
+    S:DANGER_STINKBUG_DEFAULT <MC|Forest:MC|ForestHills:MC|Jungle:MC|JungleHills:MC|Savanna>
+    S:DANGER_STINKY_DEFAULT <MC|Hell:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau>
+    S:DANGER_TERMITE_DEFAULT <>
+    S:DANGER_TERRIBLETERROR_DEFAULT <>
+    S:DANGER_THEKING_DEFAULT <>
+    S:DANGER_THEKRAKEN_DEFAULT <>
+    S:DANGER_THEPRINCESS_DEFAULT <>
+    S:DANGER_THEPRINCE_DEFAULT <>
+    S:DANGER_THEQUEEN_DEFAULT <>
+    S:DANGER_TRIFFID_DEFAULT <>
+    S:DANGER_TSHIRT_DEFAULT <>
+    S:DANGER_UNSTABLEANT_DEFAULT <>
+    S:DANGER_VELOCITYRAPTOR_DEFAULT <>
+    S:DANGER_VORTEX_DEFAULT <>
+    S:DANGER_WATERDRAGON_DEFAULT <MC|Ocean:MC|Swampland:MC|River:MC|Stone Beach>
+    S:DANGER_WHALE_DEFAULT <MC|Deep Ocean>
+    S:DANGER_WTF_DEFAULT <>
+    S:DEAD <>
+    S:DENSE <MC|Jungle:MC|JungleHills:MC|Mega Spruce Taiga:MC|Roofed Forest>
+    S:DESERT <>
+    S:DRY <MC|Desert:MC|Desert M:MC|DesertHills:MC|Hell:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M:MC|Savanna M:MC|Savanna Plateau M:MC|Sky>
+    S:END <MC|Sky>
+    S:FOREST <MC|Birch Forest:MC|Birch Forest Hills:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Extreme Hills+:MC|Flower Forest:MC|Forest:MC|ForestHills:MC|JungleEdge:MC|Mega Spruce Taiga:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Mesa Plateau F M:MC|Roofed Forest:MC|Taiga:MC|TaigaHills:MOC|WyvernBiome>
+    S:FROZEN <>
+    S:GOLDENSILVER853_BLACKCAR_DEFAULT <>
+    S:GOLDENSILVER853_BLACKPOLICECAR_DEFAULT <>
+    S:GOLDENSILVER853_BLACKTRUCK_DEFAULT <>
+    S:GOLDENSILVER853_BLACKVAN_DEFAULT <>
+    S:GOLDENSILVER853_BLUECAR_DEFAULT <>
+    S:GOLDENSILVER853_BLUEKART_DEFAULT <>
+    S:GOLDENSILVER853_BLUETRUCK_DEFAULT <>
+    S:GOLDENSILVER853_BLUEVAN_DEFAULT <>
+    S:GOLDENSILVER853_BROWNCAR_DEFAULT <>
+    S:GOLDENSILVER853_BROWNTRUCK_DEFAULT <>
+    S:GOLDENSILVER853_BROWNVAN_DEFAULT <>
+    S:GOLDENSILVER853_CART_DEFAULT <>
+    S:GOLDENSILVER853_CAR_DEFAULT <>
+    S:GOLDENSILVER853_CYANCAR_DEFAULT <>
+    S:GOLDENSILVER853_CYANTRUCK_DEFAULT <>
+    S:GOLDENSILVER853_CYANVAN_DEFAULT <>
+    S:GOLDENSILVER853_FLATBED_DEFAULT <>
+    S:GOLDENSILVER853_GRAYCAR_DEFAULT <>
+    S:GOLDENSILVER853_GRAYVAN_DEFAULT <>
+    S:GOLDENSILVER853_GREENCAR_DEFAULT <>
+    S:GOLDENSILVER853_GREENKART_DEFAULT <>
+    S:GOLDENSILVER853_GREENTRUCK_DEFAULT <>
+    S:GOLDENSILVER853_GREENVAN_DEFAULT <>
+    S:GOLDENSILVER853_JEEP_DEFAULT <>
+    S:GOLDENSILVER853_KART_DEFAULT <>
+    S:GOLDENSILVER853_LBLUECAR_DEFAULT <>
+    S:GOLDENSILVER853_LBLUETRUCK_DEFAULT <>
+    S:GOLDENSILVER853_LBLUEVAN_DEFAULT <>
+    S:GOLDENSILVER853_LGRAYCAR_DEFAULT <>
+    S:GOLDENSILVER853_LGRAYTRUCK_DEFAULT <>
+    S:GOLDENSILVER853_LGRAYVAN_DEFAULT <>
+    S:GOLDENSILVER853_LIMECAR_DEFAULT <>
+    S:GOLDENSILVER853_LIMETRUCK_DEFAULT <>
+    S:GOLDENSILVER853_LIMEVAN_DEFAULT <>
+    S:GOLDENSILVER853_MAGENTACAR_DEFAULT <>
+    S:GOLDENSILVER853_MAGENTATRUCK_DEFAULT <>
+    S:GOLDENSILVER853_MAGENTAVAN_DEFAULT <>
+    S:GOLDENSILVER853_ORANGECAR_DEFAULT <>
+    S:GOLDENSILVER853_ORANGETRUCK_DEFAULT <>
+    S:GOLDENSILVER853_ORANGEVAN_DEFAULT <>
+    S:GOLDENSILVER853_PINKCAR_DEFAULT <>
+    S:GOLDENSILVER853_PINKTRUCK_DEFAULT <>
+    S:GOLDENSILVER853_PINKVAN_DEFAULT <>
+    S:GOLDENSILVER853_POLICECAR_DEFAULT <>
+    S:GOLDENSILVER853_PURPLECAR_DEFAULT <>
+    S:GOLDENSILVER853_PURPLETRUCK_DEFAULT <>
+    S:GOLDENSILVER853_PURPLEVAN_DEFAULT <>
+    S:GOLDENSILVER853_REDTRUCK_DEFAULT <>
+    S:GOLDENSILVER853_REDVAN_DEFAULT <>
+    S:GOLDENSILVER853_SMALLVEHICLE_DEFAULT <>
+    S:GOLDENSILVER853_TRUCK_DEFAULT <>
+    S:GOLDENSILVER853_VAN_DEFAULT <>
+    S:GOLDENSILVER853_WHITECAR_DEFAULT <>
+    S:GOLDENSILVER853_WHITETRUCK_DEFAULT <>
+    S:GOLDENSILVER853_YELLOWCAR_DEFAULT <>
+    S:GOLDENSILVER853_YELLOWTRUCK_DEFAULT <>
+    S:GOLDENSILVER853_YELLOWVAN_DEFAULT <>
+    S:GOLDENSILVER853_ZAMBONI_DEFAULT <>
+    S:HILLS <MC|Birch Forest Hills:MC|Birch Forest Hills M:MC|Birch Forest M:MC|Cold Taiga Hills:MC|Cold Taiga M:MC|DesertHills:MC|Extreme Hills:MC|Extreme Hills M:MC|Extreme Hills+ M:MC|Flower Forest:MC|ForestHills:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|JungleHills:MC|Mega Taiga Hills:MC|Roofed Forest M:MC|Savanna M:MC|Savanna Plateau M:MC|Taiga M:MC|TaigaHills>
+    S:HOT <MC|Desert:MC|Desert M:MC|DesertHills:MC|Hell:MC|Jungle:MC|Jungle M:MC|JungleEdge:MC|JungleEdge M:MC|JungleHills:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M:MC|Savanna:MC|Savanna M:MC|Savanna Plateau:MC|Savanna Plateau M>
+    S:JUNGLE <MC|Jungle:MC|JungleEdge:MC|JungleHills>
+    S:LUSH <>
+    S:MAGICAL <>
+    S:MC_BAT_DEFAULT <MC|Ocean:MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Plains:MC|Ice Mountains:MC|MushroomIsland:MC|MushroomIslandShore:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Deep Ocean:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M:MOC|WyvernBiome:MICDOODLE8|marsFlat>
+    S:MC_BLAZE_DEFAULT <>
+    S:MC_CAVESPIDER_DEFAULT <>
+    S:MC_CHICKEN_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M>
+    S:MC_COW_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M>
+    S:MC_CREEPER_DEFAULT <MC|Ocean:MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Plains:MC|Ice Mountains:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Deep Ocean:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MC_ENDERDRAGON_DEFAULT <>
+    S:MC_ENDERMAN_DEFAULT <MC|Ocean:MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|Sky:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Plains:MC|Ice Mountains:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Deep Ocean:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MC_GHAST_DEFAULT <MC|Hell>
+    S:MC_GIANT_DEFAULT <>
+    S:MC_LAVASLIME_DEFAULT <MC|Hell>
+    S:MC_MUSHROOMCOW_DEFAULT <MC|MushroomIsland:MC|MushroomIslandShore>
+    S:MC_OZELOT_DEFAULT <MC|Jungle:MC|JungleHills:MC|Jungle M>
+    S:MC_PIGZOMBIE_DEFAULT <MC|Hell>
+    S:MC_PIG_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M>
+    S:MC_SHEEP_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M>
+    S:MC_SILVERFISH_DEFAULT <>
+    S:MC_SKELETON_DEFAULT <MC|Ocean:MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Plains:MC|Ice Mountains:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Deep Ocean:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MC_SLIME_DEFAULT <MC|Ocean:MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Plains:MC|Ice Mountains:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Deep Ocean:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MC_SNOWMAN_DEFAULT <>
+    S:MC_SPIDER_DEFAULT <MC|Ocean:MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Plains:MC|Ice Mountains:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Deep Ocean:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MC_SQUID_DEFAULT <MC|Ocean:MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Plains:MC|Ice Mountains:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Deep Ocean:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MC_VILLAGERGOLEM_DEFAULT <>
+    S:MC_VILLAGER_DEFAULT <>
+    S:MC_WITCH_DEFAULT <MC|Ocean:MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Plains:MC|Ice Mountains:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Deep Ocean:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MC_WITHERBOSS_DEFAULT <>
+    S:MC_WOLF_DEFAULT <MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Taiga M:MC|Cold Taiga M:MC|Mega Spruce Taiga>
+    S:MC_ZOMBIE_DEFAULT <MC|Ocean:MC|Plains:MC|Desert:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|River:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Plains:MC|Ice Mountains:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Deep Ocean:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Mesa:MC|Mesa Plateau F:MC|Mesa Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MESA <MC|Mesa:MC|Mesa Plateau:MC|Mesa Plateau F>
+    S:MICDOODLE8_ALIENVILLAGER_DEFAULT <>
+    S:MICDOODLE8_CREEPERBOSS_DEFAULT <>
+    S:MICDOODLE8_EVOLVEDCREEPER_DEFAULT <>
+    S:MICDOODLE8_EVOLVEDSKELETONBOSS_DEFAULT <>
+    S:MICDOODLE8_EVOLVEDSKELETON_DEFAULT <>
+    S:MICDOODLE8_EVOLVEDSPIDER_DEFAULT <MICDOODLE8|marsFlat>
+    S:MICDOODLE8_EVOLVEDZOMBIE_DEFAULT <MICDOODLE8|marsFlat>
+    S:MICDOODLE8_SLIMELING_DEFAULT <>
+    S:MICDOODLE8_SLUDGELING_DEFAULT <>
+    S:MOC_ANT_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_BEAR_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_BEE_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_BIGCAT_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_BIGGOLEM_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_BIRD_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_BOAR_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_BUNNY_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M:MOC|WyvernBiome>
+    S:MOC_BUTTERFLY_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_CRAB_DEFAULT <MC|MushroomIslandShore:MC|Beach:MC|Stone Beach:MC|Cold Beach>
+    S:MOC_CRICKET_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_CROCODILE_DEFAULT <MC|Swampland:MC|Swampland M>
+    S:MOC_DEER_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_DOLPHIN_DEFAULT <MC|MushroomIslandShore:MC|Beach:MC|Stone Beach:MC|Cold Beach>
+    S:MOC_DRAGONFLY_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Mountains:MC|MushroomIslandShore:MC|Beach:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Stone Beach:MC|Cold Beach:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_DUCK_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_EGG_DEFAULT <>
+    S:MOC_ELEPHANT_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_ENT_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_FIREFLY_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_FISHBOWL_DEFAULT <>
+    S:MOC_FISHY_DEFAULT <MC|Swampland:MC|MushroomIslandShore:MC|Beach:MC|Stone Beach:MC|Cold Beach:MC|Swampland M>
+    S:MOC_FLY_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_FOX_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_GOAT_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_HELLRAT_DEFAULT <MC|Hell>
+    S:MOC_HORSEMOB_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Hell:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_JELLYFISH_DEFAULT <>
+    S:MOC_KITTYBED_DEFAULT <>
+    S:MOC_KITTY_DEFAULT <MC|Plains:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Mesa (Bryce):MC|Mesa Plateau M>
+    S:MOC_KOMODODRAGON_DEFAULT <MC|Swampland:MC|Swampland M>
+    S:MOC_LITTERBOX_DEFAULT <>
+    S:MOC_MAGGOT_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|Swampland:MC|ForestHills:MC|TaigaHills:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Swampland M:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_MEDIUMFISH_DEFAULT <MC|Swampland:MC|MushroomIslandShore:MC|Beach:MC|Stone Beach:MC|Cold Beach:MC|Swampland M>
+    S:MOC_MINIGOLEM_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_MOLE_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_MOUSE_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_OGRE_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Hell:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_OSTRICH_DEFAULT <MC|Plains:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Mesa (Bryce):MC|Mesa Plateau M>
+    S:MOC_PETSCORPION_DEFAULT <>
+    S:MOC_PIRANHA_DEFAULT <MC|Swampland:MC|MushroomIslandShore:MC|Beach:MC|Stone Beach:MC|Cold Beach:MC|Swampland M>
+    S:MOC_RACCOON_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_RAT_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_RAY_DEFAULT <MC|Swampland:MC|Swampland M>
+    S:MOC_ROACH_DEFAULT <>
+    S:MOC_SHARK_DEFAULT <>
+    S:MOC_SILVERSKELETON_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_SMALLFISH_DEFAULT <MC|Swampland:MC|MushroomIslandShore:MC|Beach:MC|Stone Beach:MC|Cold Beach:MC|Swampland M>
+    S:MOC_SNAIL_DEFAULT <MC|Plains:MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Flower Forest:MC|Mega Spruce Taiga:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_SNAKE_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M:MOC|WyvernBiome>
+    S:MOC_TURKEY_DEFAULT <MC|Plains:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Mesa (Bryce):MC|Mesa Plateau M>
+    S:MOC_TURTLE_DEFAULT <MC|Swampland:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Swampland M>
+    S:MOC_WEREWOLF_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_WILDHORSE_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_WWOLF_DEFAULT <MC|Plains:MC|Extreme Hills:MC|Forest:MC|Taiga:MC|Swampland:MC|Ice Plains:MC|Ice Mountains:MC|DesertHills:MC|ForestHills:MC|TaigaHills:MC|Extreme Hills Edge:MC|Jungle:MC|JungleHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains:MC|Desert M:MC|Extreme Hills M:MC|Flower Forest:MC|Taiga M:MC|Swampland M:MC|Ice Plains Spikes:MC|Jungle M:MC|JungleEdge M:MC|Birch Forest M:MC|Birch Forest Hills M:MC|Roofed Forest M:MC|Cold Taiga M:MC|Mega Spruce Taiga:MC|Extreme Hills+ M:MC|Savanna M:MC|Savanna Plateau M:MC|Mesa (Bryce):MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:MOC_WYVERN_DEFAULT <MOC|WyvernBiome>
+    S:MONOBLOCKS_BACONPIG_DEFAULT <MC|Forest:MC|Taiga:MC|ForestHills:MC|TaigaHills:MC|JungleEdge:MC|Birch Forest:MC|Birch Forest Hills:MC|Roofed Forest:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Mega Taiga:MC|Mega Taiga Hills:MC|Extreme Hills+>
+    S:MOUNTAIN <MC|Extreme Hills:MC|Extreme Hills Edge:MC|Extreme Hills+:MC|Ice Mountains:MOC|WyvernBiome>
+    S:MUSHROOM <MC|MushroomIsland:MC|MushroomIslandShore>
+    S:NETHER <MC|Hell>
+    S:OCEAN <MC|Deep Ocean:MC|FrozenOcean:MC|Ocean>
+    S:PLAINS <MC|Desert M:MC|Mesa (Bryce):MC|Mesa Plateau M:MC|Plains:MC|Savanna:MC|Savanna Plateau:MC|Sunflower Plains>
+    S:RIVER <MC|FrozenRiver:MC|River>
+    S:SANDY <MC|Desert:MC|Desert M:MC|DesertHills:MC|Mesa:MC|Mesa (Bryce):MC|Mesa Plateau:MC|Mesa Plateau F:MC|Mesa Plateau F M:MC|Mesa Plateau M>
+    S:SAVANNA <MC|Savanna:MC|Savanna M:MC|Savanna Plateau:MC|Savanna Plateau M>
+    S:SNOWY <MC|Cold Beach:MC|Cold Taiga:MC|Cold Taiga Hills:MC|Cold Taiga M:MC|FrozenOcean:MC|FrozenRiver:MC|Ice Mountains:MC|Ice Plains:MC|Ice Plains Spikes>
+    S:SPARSE <MC|Extreme Hills+:MC|Mesa Plateau F:MC|Savanna:MC|Savanna M:MC|Savanna Plateau:MC|Savanna Plateau M>
+    S:SPOOKY <MC|Roofed Forest>
+    S:SWAMP <MC|Swampland:MC|Swampland M>
+    S:WASTELAND <MC|Ice Plains>
+    S:WATER <>
+    S:WET <MC|Jungle:MC|Jungle M:MC|JungleEdge:MC|JungleHills:MC|Swampland:MC|Swampland M>
+}
+
+

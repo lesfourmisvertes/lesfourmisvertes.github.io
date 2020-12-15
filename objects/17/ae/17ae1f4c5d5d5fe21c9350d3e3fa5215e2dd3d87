@@ -1,0 +1,18 @@
+# Configuration file
+
+keybinds {
+
+    morph {
+        S:keyFavourite=81
+        S:keySelectorCancel=1
+        S:keySelectorDown=208
+        S:keySelectorLeft=203
+        S:keySelectorRemoveMorph=14
+        S:keySelectorRight=205
+        S:keySelectorSelect=28
+        S:keySelectorUp=200
+    }
+
+}
+
+

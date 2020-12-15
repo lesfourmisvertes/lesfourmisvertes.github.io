@@ -1,0 +1,233 @@
+{
+  "name": "My Library",
+  "songs": [
+    {
+      "name": "Le Prince Aladin",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/gd4ug9e0qm9exw2/aladin.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Alexandrie, Alexandra",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/2lu7bkmwjhqr4cm/alexandrie.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Born to be Alive",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/zod348ye70fy3xr/alive.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "L\u0027aventurier",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/kayn4mxzdaxy6uu/aventurier.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Guetta - Bad",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/8d7oc62hwb13avx/bad.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Barbie Girl",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/h6hfiy4hc6x8k0t/barbie.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Bourgeoisie",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/7n7jrruxtlknpwz/bourgeoisie.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Boys boys boys",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/fuoa8ujyavrv2rr/boys.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Call me",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/2gmx716xu6sh0m0/callme.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Dear Professor",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/4o124h272rbsc06/dearprofessor.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Led démons de minuit",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/wv4wfsloeg6mb0g/demons.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Elevator Music",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/e1s2cje13o2je8m/elevatormusic.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Femme libérée",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/fuvjsq8g9dj33q9/femme.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Gaspar",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/filzkd4g3x1tjm5/gaspar.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Gimmee Gimmee Gimmee",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/equw87y4vfp504e/gimmee.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Hello",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/g4hzle44ds06dxg/hello.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Mémé",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/7gudhw1tqezg54t/meme.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Nyan Cat",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/eqqbhh2s65a5v2b/nyan.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Overtime",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/1g7vjiftw61dfpf/overtime.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Les (fameux) yaourts",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/oancphe75cffjnz/penis.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Les pouces en avant",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/4f2ytaqphip7p11/poucesn.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "The riddle anthem",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/cexdjvvesg5ckna/riddle.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Les sunlights des tropiques",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/1bq7qkywtbullih/sunlights.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Chick Chick",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/qb1rl68vc83fq3i/wtf.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Yallah Yallah",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/p9ybb2fg0gx2f95/yallah.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Malade",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/ctc0llmp0m4191o/Alice%20on%20the%20Roof%20-%20Malade.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Blah Blah Blah",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/j8j6734gxwm9yxe/Armin%20van%20Buuren%20-%20Blah%20Blah%20Blah%20%28Official%20Lyric%20Video%29.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Demain",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/jzs5ss3ivrxos7u/Demain%20%28Bigflo%20%26%20Oli%20X%20Petit%20Biscuit%29.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Nevermind",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/24uib87hh01p66k/Dennis%20Lloyd%20-%20NEVERMIND.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Rise",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/wbeid5gmflvbv3p/Jonas%20Blue%20-%20Rise.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Play",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/s5h07ksx0pm93w4/Kid%20Noize%20-%20Play%20%28feat%20Rio%20Santana%29.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Whenever",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/da73teprrui33j8/Kris%20Kross%20Amsterdam%20x%20The%20Boy%20Next%20Door%20-%20Whenever%20%28feat.%20Conor%20Maynard%29.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Sweet \u0026 Bitter",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/19f0b4kmbm3lco6/Kush%20Kush%20%E2%80%93%20Sweet%20%26%20Bitter%20%5BOfficial%20Lyric%20Video%5D.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Party",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/vyj5rnjcbkfe4pt/Ofenbach%2C%20Lack%20Of%20Afro%20%26%20Wax%20Herbal%20T%20-%20Party.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Start Again",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/0p1jgbacy5pd0ht/OneRepublic%20-%20Start%20Again%20ft.%20Logic.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Let me Live",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/sggwm0dkzi6p1ss/Rudimental%20%26%20Major%20Lazer%20-%20Let%20Me%20Live%20%28feat.%20Anne-Marie%20%26%20Mr%20Eazi%29%20%5BOfficial%20Video%5D.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "J\u0027irai",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/m9fcpgm09t4cswe/Sloane%20-%20J%27irai.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    },
+    {
+      "name": "Jackie Chan",
+      "author": "TheDarkFighter47",
+      "url": "https://dl.dropboxusercontent.com/s/ny0rkyqebscfhvt/Ti%C3%ABsto%2C%20Dzeko%20-%20Jackie%20Chan%20%28Lyric%20Video%29%20ft.%20Preme%2C%20Post%20Malone.mp3?dl\u003d0",
+      "color": "FFFFFF"
+    }
+  ]
+}

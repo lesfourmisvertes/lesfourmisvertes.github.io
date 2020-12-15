@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Serveur Moddé 1.7.10",
+      "name" : "Serveur Moddé 1.7.10",
+      "version" : "2020-12-15-14-07-51",
+      "location" : "serveur-modd-1.7.10.json",
+      "priority" : 0
+    }
+  ]
+}

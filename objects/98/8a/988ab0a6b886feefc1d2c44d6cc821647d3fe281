@@ -1,0 +1,17 @@
+# Configuration file
+
+"invert assembly direction when placed" {
+    B:general=true
+}
+
+
+"move entities" {
+    B:general=true
+}
+
+
+"move players while crouching" {
+    B:general=true
+}
+
+

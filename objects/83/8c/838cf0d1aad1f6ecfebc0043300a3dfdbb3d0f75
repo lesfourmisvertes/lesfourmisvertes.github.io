@@ -1,0 +1,16 @@
+# Configuration file
+
+##########################################################################################################
+# general
+#--------------------------------------------------------------------------------------------------------#
+# Example: streamUrl[number]:your_stream_url, streamName[number]: your_stream_name
+##########################################################################################################
+
+general {
+    S:streamUrl0=http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
+    S:streamUrl1=http://185.52.127.131/fr/30043/mp3_128.mp3?origine=fluxradios
+    S:streamUrl2=   http://cdn.nrjaudio.fm/adwz1/fr/56902/mp3_128.mp3?origine=fluxradios
+    S:streamUrl3=https://dl.dropboxusercontent.com/s/j50cqqr7pwpisxw/Elevator_Music.mp3
+}
+
+

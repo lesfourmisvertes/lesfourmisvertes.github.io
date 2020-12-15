@@ -1,0 +1,7 @@
+# Configuration file
+
+general {
+    B:"If true, it will look like you are pushing the shopping cart."=true
+}
+
+

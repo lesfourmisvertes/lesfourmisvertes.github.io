@@ -1,0 +1,27 @@
+# Configuration file
+
+general {
+    # nullPermet aux portillons d'utiliser la texture des blocs qui l'entourent.  
+    B:config.enableCamoFenceGate=true
+    B:config.enableMixedBlocks=true
+    B:config.enableVanishingBlocks=true
+
+    # nullLes cadres deviennent instables et changent temporairement de dimension. 
+    B:config.enableVanishingGlitch=true
+
+    # nullBase le placement du bloc en fonction de la direction de la vue plutot que la face visée.  Utiliser la touche "S'accroupir" pour inverser la position du bloc. 
+    B:config.enhancedMixedBlockPlacement=true
+
+    # nullActive l'animation des portes, trappes et portillons. Les blocs sont remplacés et peuvent provoquer des conflits si d'autres mods tentent aussi de les modifier. 
+    B:config.modifyVanillaDoors=true
+
+    # nullActive un rendu moins avancé pour les blocs mixés. Activez cette option si des problèmes de rendu sont visible pour ces blocs. 
+    B:config.simpleMixedBlockRendering=false
+    B:config.use3BranchHandle=false
+    B:config.use3DItems=false
+
+    # nullA quelle fréquence les cadres deviennent instable. 
+    D:config.vanishingGlitchChance=5.0E-4
+}
+
+

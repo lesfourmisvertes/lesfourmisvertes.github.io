@@ -1,0 +1,42 @@
+# Configuration file
+
+##########################################################################################################
+# versioncheck
+#--------------------------------------------------------------------------------------------------------#
+# Ces options sont pour le système de vérification des mises à jour, ajouté par iChunUtil.
+##########################################################################################################
+
+versioncheck {
+    # Quand serez vous averti des mises à jour ? (Configuration client)
+    # 0 = Dès que vous vous connectez au serveur
+    # 1 = Une fois par jour
+    # 2 = Une seule fois jusqu'à la prochaine mise à jour.
+    # 3 = Jamais (Cela cache juste les notifications. Le mod continuera tout de même à vérifier les mises à jour et à les afficher dans la console).
+    # 
+    # Min: 0
+    # Max: 3
+    I:versionNotificationFrequency=0
+
+    # Comment le CLIENT sera averti des mises à jour ? (Les serveurs auront toujours cette notification affichée dans la console. En solo, vous rejoignez un serveur auto-hébergé)
+    # 0 = Avertir des mises à jour peu importe le statut du joueur (admin ou pas).
+    # 1 = Avertir seulement les admins des mises à jour (Les mises à jour de mods client seul s'afficheront quand même)
+    # 2 = Autoriser les notifications par le client.
+    # 
+    # Min: 0
+    # Max: 2
+    I:versionNotificationTypes=1
+}
+
+
+##########################################################################################################
+# versionsave
+#--------------------------------------------------------------------------------------------------------#
+# Ce sont des informations de sauvegarde pour le système de vérification de sauvegarde. N'y touchez pas sauf si vous voulez casser des trucs.
+##########################################################################################################
+
+versionsave {
+    I:dayCheck=14
+    S:lastCheck=iChunUtil: 4.2.3
+}
+
+

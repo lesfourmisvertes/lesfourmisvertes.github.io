@@ -1,0 +1,57 @@
+# Configuration file
+
+~CONFIG_VERSION: 0.1.0
+
+world-1196668998 {
+    B:cheatItemsEnabled=false
+    B:editEnabled=false
+    S:filterText=
+    B:overlayEnabled=true
+}
+
+
+world-747357245 {
+    # Show the list of bookmarks next to open guis.
+    B:bookmarkOverlayEnabled=true
+
+    # Donne les objets au lieu de montrer la recette.
+    B:cheatItemsEnabled=false
+
+    # Masque/affiche les objets en les cliquant dans la liste.
+    B:editEnabled=false
+    S:filterText=
+
+    # Affiche la liste des objets à côté de l'interface utilisateur ouverte.
+    B:overlayEnabled=true
+}
+
+
+world1429571580 {
+    B:cheatItemsEnabled=false
+    B:editEnabled=false
+    S:filterText=
+    B:overlayEnabled=true
+}
+
+
+world1544803905 {
+    S:filterText=
+}
+
+
+world1674868518 {
+    B:cheatItemsEnabled=false
+    B:editEnabled=false
+    S:filterText=
+    B:overlayEnabled=true
+}
+
+
+world2054076574 {
+    B:cheatItemsEnabled=true
+    B:editEnabled=false
+    S:filterText=fram
+    B:overlayEnabled=true
+}
+
+
